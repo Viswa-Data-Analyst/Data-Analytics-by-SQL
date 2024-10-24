@@ -1,4 +1,4 @@
-THe goal of the project is to extract various insights out of the census-income data by using SQLite and dplyr packages and identify the benefits and limitations of both the packages.
+The goal of the project is to extract various insights out of the census-income data by using SQLite and dplyr packages and identify the benefits and limitations of both the packages.
 
 Insights Extracted: 
 Gender Count by RACE
